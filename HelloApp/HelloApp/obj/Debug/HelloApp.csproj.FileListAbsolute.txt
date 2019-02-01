@@ -1,0 +1,15 @@
+C:\Users\EvoSt\Documents\ButlerCC\ADV C#\Modules\Mod1\HelloApp\HelloApp\bin\Debug\HelloApp.exe.config
+C:\Users\EvoSt\Documents\ButlerCC\ADV C#\Modules\Mod1\HelloApp\HelloApp\bin\Debug\HelloApp.exe
+C:\Users\EvoSt\Documents\ButlerCC\ADV C#\Modules\Mod1\HelloApp\HelloApp\bin\Debug\HelloApp.pdb
+C:\Users\EvoSt\Documents\ButlerCC\ADV C#\Modules\Mod1\HelloApp\HelloApp\obj\Debug\HelloApp.csprojAssemblyReference.cache
+C:\Users\EvoSt\Documents\ButlerCC\ADV C#\Modules\Mod1\HelloApp\HelloApp\obj\Debug\MainWindow.g.cs
+C:\Users\EvoSt\Documents\ButlerCC\ADV C#\Modules\Mod1\HelloApp\HelloApp\obj\Debug\App.g.cs
+C:\Users\EvoSt\Documents\ButlerCC\ADV C#\Modules\Mod1\HelloApp\HelloApp\obj\Debug\HelloApp_MarkupCompile.cache
+C:\Users\EvoSt\Documents\ButlerCC\ADV C#\Modules\Mod1\HelloApp\HelloApp\obj\Debug\HelloApp_MarkupCompile.lref
+C:\Users\EvoSt\Documents\ButlerCC\ADV C#\Modules\Mod1\HelloApp\HelloApp\obj\Debug\MainWindow.baml
+C:\Users\EvoSt\Documents\ButlerCC\ADV C#\Modules\Mod1\HelloApp\HelloApp\obj\Debug\HelloApp.g.resources
+C:\Users\EvoSt\Documents\ButlerCC\ADV C#\Modules\Mod1\HelloApp\HelloApp\obj\Debug\HelloApp.Properties.Resources.resources
+C:\Users\EvoSt\Documents\ButlerCC\ADV C#\Modules\Mod1\HelloApp\HelloApp\obj\Debug\HelloApp.csproj.GenerateResource.cache
+C:\Users\EvoSt\Documents\ButlerCC\ADV C#\Modules\Mod1\HelloApp\HelloApp\obj\Debug\HelloApp.csproj.CoreCompileInputs.cache
+C:\Users\EvoSt\Documents\ButlerCC\ADV C#\Modules\Mod1\HelloApp\HelloApp\obj\Debug\HelloApp.exe
+C:\Users\EvoSt\Documents\ButlerCC\ADV C#\Modules\Mod1\HelloApp\HelloApp\obj\Debug\HelloApp.pdb
